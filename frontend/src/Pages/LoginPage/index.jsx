@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import ReactDOM from "react-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './login.css'
 import login from './login2.jpg'
