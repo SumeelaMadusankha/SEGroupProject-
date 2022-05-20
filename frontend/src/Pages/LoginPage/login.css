@@ -80,3 +80,7 @@ overflow: hidden; }
     margin: auto;
 }
 
+.error {
+    color: crimson;
+    font-size: 12px;
+  }
