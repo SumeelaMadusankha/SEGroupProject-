@@ -1,0 +1,23 @@
+.button-holder{
+    position: absolute;
+    right: 0;
+
+    width: 40%;
+
+    text-align: center;
+
+    padding: 20px 20px;
+
+    text-align: right;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+
+    padding: 10px;
+
+    background-color: rgba(140, 143, 146, 0.527);
+    backdrop-filter: blur(8px);
+}
